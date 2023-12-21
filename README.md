@@ -2,9 +2,7 @@
 
 ## My name is Osmond Matsela 
 
-I am an aspiring programmer  
-
-![image](https://cdn.pixabay.com/photo/2023/11/02/15/58/beetle-8360945_1280.jpg)
+I am an aspiring Cyber Security Analyst, with a solid passion for programming and hunger for creation.     
 
 ### These are my skills 
 - Pyhton
