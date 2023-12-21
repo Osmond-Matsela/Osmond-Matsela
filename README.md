@@ -14,6 +14,6 @@ I am an aspiring programmer
 
 _Special_links_
 
-1.[LinkedIn](https://LinkedIn.com/OsmondMatsela)
+1.[LinkedIn](www.linkedin.com/in/osmond-matsela-b32472218)
 
 
